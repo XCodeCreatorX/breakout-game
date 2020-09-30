@@ -1,0 +1,13 @@
+canvas {
+    background: #fffcf2ff;
+    display: block;
+    margin: 0 auto;
+
+    border: 2px #ccc5b9ff solid;
+    border-radius: 25px;
+}
+
+p {
+    text-align: center;
+    font-size: 10px;
+}
